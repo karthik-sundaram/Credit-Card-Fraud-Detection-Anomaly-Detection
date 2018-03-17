@@ -15,6 +15,6 @@ cost-senstive learning. Feature 'Class' is the response variable and it takes va
 
 KAGGLE DATASET : https://www.kaggle.com/mlg-ulb/creditcardfraud/data
 
-METHODOLOGY?ALGORITHM ADOPTED:
+METHODOLOGY/ALGORITHM ADOPTED:
 1) Multi-variate Gaussian Anomaly detection
 2) One-Class SVM (Support Vector Machines) - unsupervised algorithm
