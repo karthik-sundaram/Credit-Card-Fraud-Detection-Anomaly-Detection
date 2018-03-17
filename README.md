@@ -18,3 +18,4 @@ KAGGLE DATASET : https://www.kaggle.com/mlg-ulb/creditcardfraud/data
 METHODOLOGY/ALGORITHM ADOPTED:
 1) Multi-variate Gaussian Anomaly detection
 2) One-Class SVM (Support Vector Machines) - unsupervised algorithm
+3) Logistic Regression with Undersampling
